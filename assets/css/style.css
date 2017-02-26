@@ -136,7 +136,7 @@ form {
  	font-family: 'Georgia', Times, Times New Roman, serif;
  	width:100px;
  	}
-
+/* media quiery for 980px*/
 @media screen and (max-width: 980px) {
 
 	#me {
@@ -167,7 +167,7 @@ form {
 	}
 
 }
-
+/*media query for 768px*/
 @media screen and (max-width: 768px) {
 
 	article {
@@ -198,7 +198,7 @@ form {
 		margin-right: 75px;
 	}
 }
-
+/*media query for 640px*/
 @media screen and (max-width: 640px) {
 
 	.red, figcaption{
@@ -233,5 +233,8 @@ form {
  	margin: 0;
  	text-align: center;
  	float: none;}
- a{padding:10px 35px 10px 35px;}
+
+ 	a{
+ 		padding:10px 35px 10px 35px;
+ 	}
 }
