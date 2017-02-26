@@ -110,23 +110,10 @@ figcaption{
 			color: white;
 			} 
 
-/*panda ids used to float the figures and figcaptions, make them next to each other*/
-	// #panda1{
-	// 	float: left;
-	// 	}
-
-	// #panda2{
-	// 	float: left;
-	// 	}
-
-	// #panda3{
-	// 	float: left;
-	// 	}
-
-	// #panda4{
-	// 	float: left;
-	// 	}
+/*panda classs used to float the figures and figcaptions, make them next to each other*/
+	
 	.panda{float: left;}
+	
 /*styles for the form on contact page*/
 form {
 	padding: 10px;
